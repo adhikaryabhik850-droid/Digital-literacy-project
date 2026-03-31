@@ -1,0 +1,25 @@
+1. Always verify the sender’s email address before clicking on any link, especially for internships or job offers.
+
+2. Never share your OTP, passwords, or bank details with anyone, even if they claim to be from a bank or official authority.
+
+3. Avoid clicking on unknown or shortened links (like bit.ly) received via SMS, WhatsApp, or email.
+
+4. Use strong and unique passwords for different accounts, and enable two-factor authentication (2FA) wherever possible.
+
+5. Do not log in to important accounts (banking, email) using public Wi-Fi networks.
+
+6. For UPI safety: Never approve unknown payment requests or “collect requests” in apps like Google Pay, PhonePe, or Paytm.
+
+7. For UPI safety: Remember that receiving money does NOT require entering your UPI PIN — only sending money does.
+
+8. Always download apps only from official sources like Google Play Store or Apple App Store.
+
+9. Regularly update your phone and apps to ensure the latest security protections are active.
+
+10. Be cautious of messages creating urgency (e.g., “limited time offer”, “account will be blocked”) — take time to verify before acting.
+
+11. Log out of shared devices and avoid saving passwords on public or borrowed systems.
+
+12. Report any suspicious activity immediately on:
+   - National Cyber Crime Portal: https://cybercrime.gov.in
+   - Helpline Number: 1930
